@@ -1,0 +1,42 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f7fbfc;
+    color: #354f52;
+    line-height: 1.6;
+  }
+  
+  h1, h2, h3 {
+    color: #0077b6;
+  }
+  
+  code {
+    background-color: #dbe9f4;
+    padding: 4px 6px;
+    border-radius: 6px;
+  }
+  
+  pre {
+    background-color: #dbe9f4;
+    border-left: 4px solid #48cae4;
+    padding: 10px;
+    overflow-x: auto;
+  }
+  
+  .plotly-graph-div {
+    margin-top: 1em;
+    margin-bottom: 2em;
+  }
+  
+  img, svg {
+    max-width: 100%;
+  }
+  
+  table {
+    background-color: #ffffff;
+    border: 1px solid #9bb1d4;
+  }
+  
+  strong {
+    color: #0077b6;
+  }

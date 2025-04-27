@@ -1,0 +1,368 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Adjusted net attendance rate for children of primary school age,2015,53.200001,Female,,%,,,,Total
+Afghanistan,AF,AFG,4,Adjusted net attendance rate for children of primary school age,2015,73.099998,Male,,%,,,,Total
+Afghanistan,AF,AFG,4,Adjusted net attendance rate for children of primary school age,2015,63.700001,Total,,%,,,,Total
+Albania,AL,ALB,8,Adjusted net attendance rate for children of primary school age,2018,91.39299,Female,,%,,,,Total
+Albania,AL,ALB,8,Adjusted net attendance rate for children of primary school age,2018,88.879219,Male,,%,,,,Total
+Albania,AL,ALB,8,Adjusted net attendance rate for children of primary school age,2018,90.119217,Total,,%,,,,Total
+Algeria,DZ,DZA,12,Adjusted net attendance rate for children of primary school age,2020,96.958458,Female,,%,,,,Total
+Algeria,DZ,DZA,12,Adjusted net attendance rate for children of primary school age,2020,97.2043,Male,,%,,,,Total
+Algeria,DZ,DZA,12,Adjusted net attendance rate for children of primary school age,2020,97.08477,Total,,%,,,,Total
+Angola,AO,AGO,24,Adjusted net attendance rate for children of primary school age,2016,75.599998,Female,,%,,,,Total
+Angola,AO,AGO,24,Adjusted net attendance rate for children of primary school age,2016,76.099998,Male,,%,,,,Total
+Angola,AO,AGO,24,Adjusted net attendance rate for children of primary school age,2016,75.800003,Total,,%,,,,Total
+Argentina,AR,ARG,32,Adjusted net attendance rate for children of primary school age,2020,97.892517,Female,,%,,,,Total
+Argentina,AR,ARG,32,Adjusted net attendance rate for children of primary school age,2020,98.4533,Male,,%,,,,Total
+Argentina,AR,ARG,32,Adjusted net attendance rate for children of primary school age,2020,98.181023,Total,,%,,,,Total
+Armenia,AM,ARM,51,Adjusted net attendance rate for children of primary school age,2016,95.358589,Female,,%,,,,Total
+Armenia,AM,ARM,51,Adjusted net attendance rate for children of primary school age,2016,95.491661,Male,,%,,,,Total
+Armenia,AM,ARM,51,Adjusted net attendance rate for children of primary school age,2016,95.427887,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Adjusted net attendance rate for children of primary school age,2011,66.699997,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Adjusted net attendance rate for children of primary school age,2011,68.599998,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Adjusted net attendance rate for children of primary school age,2011,67.699997,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Adjusted net attendance rate for children of primary school age,2019,88.5,Female,,%,,,,Total
+Bangladesh,BD,BGD,50,Adjusted net attendance rate for children of primary school age,2019,83.300003,Male,,%,,,,Total
+Bangladesh,BD,BGD,50,Adjusted net attendance rate for children of primary school age,2019,85.900002,Total,,%,,,,Total
+Barbados,BB,BRB,52,Adjusted net attendance rate for children of primary school age,2012,98.897209,Female,,%,,,,Total
+Barbados,BB,BRB,52,Adjusted net attendance rate for children of primary school age,2012,100,Male,,%,,,,Total
+Barbados,BB,BRB,52,Adjusted net attendance rate for children of primary school age,2012,99.468857,Total,,%,,,,Total
+Belarus,BY,BLR,112,Adjusted net attendance rate for children of primary school age,2020,93.706253,Female,,%,,,,Total
+Belarus,BY,BLR,112,Adjusted net attendance rate for children of primary school age,2020,92.922379,Male,,%,,,,Total
+Belarus,BY,BLR,112,Adjusted net attendance rate for children of primary school age,2020,93.287956,Total,,%,,,,Total
+Belize,BZ,BLZ,84,Adjusted net attendance rate for children of primary school age,2016,96,Female,,%,,,,Total
+Belize,BZ,BLZ,84,Adjusted net attendance rate for children of primary school age,2016,95.699997,Male,,%,,,,Total
+Belize,BZ,BLZ,84,Adjusted net attendance rate for children of primary school age,2016,95.800003,Total,,%,,,,Total
+Benin,BJ,BEN,204,Adjusted net attendance rate for children of primary school age,2018,65.099998,Female,,%,,,,Total
+Benin,BJ,BEN,204,Adjusted net attendance rate for children of primary school age,2018,71.400002,Male,,%,,,,Total
+Benin,BJ,BEN,204,Adjusted net attendance rate for children of primary school age,2018,68.300003,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Adjusted net attendance rate for children of primary school age,2012,94.800003,Female,,%,,,,Total
+Bhutan,BT,BTN,64,Adjusted net attendance rate for children of primary school age,2012,95.5,Male,,%,,,,Total
+Bhutan,BT,BTN,64,Adjusted net attendance rate for children of primary school age,2012,95.199997,Total,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Adjusted net attendance rate for children of primary school age,2016,95.669243,Female,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Adjusted net attendance rate for children of primary school age,2016,95.315933,Male,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Adjusted net attendance rate for children of primary school age,2016,95.484772,Total,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Adjusted net attendance rate for children of primary school age,2012,95.102737,Female,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Adjusted net attendance rate for children of primary school age,2012,96.785507,Male,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Adjusted net attendance rate for children of primary school age,2012,96.063164,Total,,%,,,,Total
+Botswana,BW,BWA,72,Adjusted net attendance rate for children of primary school age,2010,90,Total,,%,,,,Total
+Brazil,BR,BRA,76,Adjusted net attendance rate for children of primary school age,2019,93.978271,Female,,%,,,,Total
+Brazil,BR,BRA,76,Adjusted net attendance rate for children of primary school age,2019,93.891243,Male,,%,,,,Total
+Brazil,BR,BRA,76,Adjusted net attendance rate for children of primary school age,2019,93.934273,Total,,%,,,,Total
+Burkina Faso,BF,BFA,854,Adjusted net attendance rate for children of primary school age,2010,50,Female,,%,,,,Total
+Burkina Faso,BF,BFA,854,Adjusted net attendance rate for children of primary school age,2010,53.700001,Male,,%,,,,Total
+Burkina Faso,BF,BFA,854,Adjusted net attendance rate for children of primary school age,2010,51.900002,Total,,%,,,,Total
+Burundi,BI,BDI,108,Adjusted net attendance rate for children of primary school age,2017,82.164139,Female,,%,,,,Total
+Burundi,BI,BDI,108,Adjusted net attendance rate for children of primary school age,2017,82.061127,Male,,%,,,,Total
+Burundi,BI,BDI,108,Adjusted net attendance rate for children of primary school age,2017,82.113747,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Adjusted net attendance rate for children of primary school age,2014,93.913101,Female,,%,,,,Total
+Cambodia,KH,KHM,116,Adjusted net attendance rate for children of primary school age,2014,91.763283,Male,,%,,,,Total
+Cambodia,KH,KHM,116,Adjusted net attendance rate for children of primary school age,2014,92.834877,Total,,%,,,,Total
+Cameroon,CM,CMR,120,Adjusted net attendance rate for children of primary school age,2018,82.038963,Female,,%,,,,Total
+Cameroon,CM,CMR,120,Adjusted net attendance rate for children of primary school age,2018,85.928413,Male,,%,,,,Total
+Cameroon,CM,CMR,120,Adjusted net attendance rate for children of primary school age,2018,83.994049,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Adjusted net attendance rate for children of primary school age,2019,69.2127,Female,,%,,,,Total
+Central African Republic,CF,CAF,140,Adjusted net attendance rate for children of primary school age,2019,76.05088,Male,,%,,,,Total
+Central African Republic,CF,CAF,140,Adjusted net attendance rate for children of primary school age,2019,72.757393,Total,,%,,,,Total
+Chad,TD,TCD,148,Adjusted net attendance rate for children of primary school age,2019,40.395908,Female,,%,,,,Total
+Chad,TD,TCD,148,Adjusted net attendance rate for children of primary school age,2019,45.458809,Male,,%,,,,Total
+Chad,TD,TCD,148,Adjusted net attendance rate for children of primary school age,2019,42.960449,Total,,%,,,,Total
+Chile,CL,CHL,152,Adjusted net attendance rate for children of primary school age,2017,90.099998,Female,,%,,,,Total
+Chile,CL,CHL,152,Adjusted net attendance rate for children of primary school age,2017,87.699997,Male,,%,,,,Total
+Chile,CL,CHL,152,Adjusted net attendance rate for children of primary school age,2017,88.800003,Total,,%,,,,Total
+China,CN,CHN,156,Adjusted net attendance rate for children of primary school age,2015,94.800003,Female,,%,,,,Total
+China,CN,CHN,156,Adjusted net attendance rate for children of primary school age,2015,94.800003,Male,,%,,,,Total
+China,CN,CHN,156,Adjusted net attendance rate for children of primary school age,2015,94.800003,Total,,%,,,,Total
+Colombia,CO,COL,170,Adjusted net attendance rate for children of primary school age,2015,94.599998,Female,,%,,,,Total
+Colombia,CO,COL,170,Adjusted net attendance rate for children of primary school age,2015,93.699997,Male,,%,,,,Total
+Colombia,CO,COL,170,Adjusted net attendance rate for children of primary school age,2015,94.199997,Total,,%,,,,Total
+Comoros,KM,COM,174,Adjusted net attendance rate for children of primary school age,2012,84.400002,Female,,%,,,,Total
+Comoros,KM,COM,174,Adjusted net attendance rate for children of primary school age,2012,84.400002,Male,,%,,,,Total
+Comoros,KM,COM,174,Adjusted net attendance rate for children of primary school age,2012,84.400002,Total,,%,,,,Total
+Congo,CG,COG,178,Adjusted net attendance rate for children of primary school age,2015,96.696281,Female,,%,,,,Total
+Congo,CG,COG,178,Adjusted net attendance rate for children of primary school age,2015,96.395737,Male,,%,,,,Total
+Congo,CG,COG,178,Adjusted net attendance rate for children of primary school age,2015,96.546753,Total,,%,,,,Total
+Costa Rica,CR,CRI,188,Adjusted net attendance rate for children of primary school age,2018,95.656517,Female,,%,,,,Total
+Costa Rica,CR,CRI,188,Adjusted net attendance rate for children of primary school age,2018,95.638832,Male,,%,,,,Total
+Costa Rica,CR,CRI,188,Adjusted net attendance rate for children of primary school age,2018,95.647469,Total,,%,,,,Total
+Cuba,CU,CUB,192,Adjusted net attendance rate for children of primary school age,2019,98.858391,Female,,%,,,,Total
+Cuba,CU,CUB,192,Adjusted net attendance rate for children of primary school age,2019,98.81517,Male,,%,,,,Total
+Cuba,CU,CUB,192,Adjusted net attendance rate for children of primary school age,2019,98.836533,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Adjusted net attendance rate for children of primary school age,2016,74.099998,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Adjusted net attendance rate for children of primary school age,2016,79.400002,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Adjusted net attendance rate for children of primary school age,2016,76.800003,Total,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Adjusted net attendance rate for children of primary school age,2017,96.599998,Female,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Adjusted net attendance rate for children of primary school age,2017,96.699997,Male,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Adjusted net attendance rate for children of primary school age,2017,96.699997,Total,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Adjusted net attendance rate for children of primary school age,2018,77.5737,Female,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Adjusted net attendance rate for children of primary school age,2018,78.982681,Male,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Adjusted net attendance rate for children of primary school age,2018,78.300873,Total,,%,,,,Total
+Djibouti,DJ,DJI,262,Adjusted net attendance rate for children of primary school age,2012,67.900002,Female,,%,,,,Total
+Djibouti,DJ,DJI,262,Adjusted net attendance rate for children of primary school age,2012,70.800003,Male,,%,,,,Total
+Djibouti,DJ,DJI,262,Adjusted net attendance rate for children of primary school age,2012,69.5,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Adjusted net attendance rate for children of primary school age,2019,96.660683,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Adjusted net attendance rate for children of primary school age,2019,96.318604,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Adjusted net attendance rate for children of primary school age,2019,96.488403,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Adjusted net attendance rate for children of primary school age,2019,95.699997,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Adjusted net attendance rate for children of primary school age,2019,95.199997,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Adjusted net attendance rate for children of primary school age,2019,95.400002,Total,,%,,,,Total
+Egypt,EG,EGY,818,Adjusted net attendance rate for children of primary school age,2014,96.58416,Female,,%,,,,Total
+Egypt,EG,EGY,818,Adjusted net attendance rate for children of primary school age,2014,97.005463,Male,,%,,,,Total
+Egypt,EG,EGY,818,Adjusted net attendance rate for children of primary school age,2014,96.802277,Total,,%,,,,Total
+El Salvador,SV,SLV,222,Adjusted net attendance rate for children of primary school age,2014,96.199997,Female,,%,,,,Total
+El Salvador,SV,SLV,222,Adjusted net attendance rate for children of primary school age,2014,95.400002,Male,,%,,,,Total
+El Salvador,SV,SLV,222,Adjusted net attendance rate for children of primary school age,2014,95.800003,Total,,%,,,,Total
+Eritrea,ER,ERI,232,Adjusted net attendance rate for children of primary school age,2010,78.860001,Female,,%,,,,Total
+Eritrea,ER,ERI,232,Adjusted net attendance rate for children of primary school age,2010,82.940002,Male,,%,,,,Total
+Eritrea,ER,ERI,232,Adjusted net attendance rate for children of primary school age,2010,81,Total,,%,,,,Total
+Swaziland,SZ,SWZ,748,Adjusted net attendance rate for children of primary school age,2014,98,Female,,%,,,,Total
+Swaziland,SZ,SWZ,748,Adjusted net attendance rate for children of primary school age,2014,97.300003,Male,,%,,,,Total
+Swaziland,SZ,SWZ,748,Adjusted net attendance rate for children of primary school age,2014,97.699997,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Adjusted net attendance rate for children of primary school age,2016,68.084137,Female,,%,,,,Total
+Ethiopia,ET,ETH,231,Adjusted net attendance rate for children of primary school age,2016,68.275871,Male,,%,,,,Total
+Ethiopia,ET,ETH,231,Adjusted net attendance rate for children of primary school age,2016,68.184059,Total,,%,,,,Total
+Gabon,GA,GAB,266,Adjusted net attendance rate for children of primary school age,2012,98.400002,Female,,%,,,,Total
+Gabon,GA,GAB,266,Adjusted net attendance rate for children of primary school age,2012,96.900002,Male,,%,,,,Total
+Gabon,GA,GAB,266,Adjusted net attendance rate for children of primary school age,2012,97.699997,Total,,%,,,,Total
+Gambia,GM,GMB,270,Adjusted net attendance rate for children of primary school age,2018,80.400002,Female,,%,,,,Total
+Gambia,GM,GMB,270,Adjusted net attendance rate for children of primary school age,2018,75.699997,Male,,%,,,,Total
+Gambia,GM,GMB,270,Adjusted net attendance rate for children of primary school age,2018,78.099998,Total,,%,,,,Total
+Georgia,GE,GEO,268,Adjusted net attendance rate for children of primary school age,2018,98.008698,Female,,%,,,,Total
+Georgia,GE,GEO,268,Adjusted net attendance rate for children of primary school age,2018,97.801666,Male,,%,,,,Total
+Georgia,GE,GEO,268,Adjusted net attendance rate for children of primary school age,2018,97.900002,Total,,%,,,,Total
+Ghana,GH,GHA,288,Adjusted net attendance rate for children of primary school age,2018,82.254677,Female,,%,,,,Total
+Ghana,GH,GHA,288,Adjusted net attendance rate for children of primary school age,2018,79.686996,Male,,%,,,,Total
+Ghana,GH,GHA,288,Adjusted net attendance rate for children of primary school age,2018,80.937157,Total,,%,,,,Total
+Guatemala,GT,GTM,320,Adjusted net attendance rate for children of primary school age,2015,93,Female,,%,,,,Total
+Guatemala,GT,GTM,320,Adjusted net attendance rate for children of primary school age,2015,94.300003,Male,,%,,,,Total
+Guatemala,GT,GTM,320,Adjusted net attendance rate for children of primary school age,2015,93.599998,Total,,%,,,,Total
+Guinea,GN,GIN,324,Adjusted net attendance rate for children of primary school age,2018,63.479858,Female,,%,,,,Total
+Guinea,GN,GIN,324,Adjusted net attendance rate for children of primary school age,2018,68.772346,Male,,%,,,,Total
+Guinea,GN,GIN,324,Adjusted net attendance rate for children of primary school age,2018,66.13343,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Adjusted net attendance rate for children of primary school age,2019,69.65786,Female,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Adjusted net attendance rate for children of primary school age,2019,67.729897,Male,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Adjusted net attendance rate for children of primary school age,2019,68.683777,Total,,%,,,,Total
+Guyana,GY,GUY,328,Adjusted net attendance rate for children of primary school age,2020,96.639526,Female,,%,,,,Total
+Guyana,GY,GUY,328,Adjusted net attendance rate for children of primary school age,2020,96.31913,Male,,%,,,,Total
+Guyana,GY,GUY,328,Adjusted net attendance rate for children of primary school age,2020,96.484734,Total,,%,,,,Total
+Haiti,HT,HTI,332,Adjusted net attendance rate for children of primary school age,2017,85.176949,Female,,%,,,,Total
+Haiti,HT,HTI,332,Adjusted net attendance rate for children of primary school age,2017,83.357117,Male,,%,,,,Total
+Haiti,HT,HTI,332,Adjusted net attendance rate for children of primary school age,2017,84.239754,Total,,%,,,,Total
+Honduras,HN,HND,340,Adjusted net attendance rate for children of primary school age,2019,95.464539,Female,,%,,,,Total
+Honduras,HN,HND,340,Adjusted net attendance rate for children of primary school age,2019,94.158463,Male,,%,,,,Total
+Honduras,HN,HND,340,Adjusted net attendance rate for children of primary school age,2019,94.798317,Total,,%,,,,Total
+India,IN,IND,356,Adjusted net attendance rate for children of primary school age,2016,95.099998,Female,,%,,,,Total
+India,IN,IND,356,Adjusted net attendance rate for children of primary school age,2016,95.400002,Male,,%,,,,Total
+India,IN,IND,356,Adjusted net attendance rate for children of primary school age,2016,95.199997,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Adjusted net attendance rate for children of primary school age,2017,94.241417,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Adjusted net attendance rate for children of primary school age,2017,92.720459,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Adjusted net attendance rate for children of primary school age,2017,93.460854,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Adjusted net attendance rate for children of primary school age,2011,96.940002,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Adjusted net attendance rate for children of primary school age,2011,96.440002,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Adjusted net attendance rate for children of primary school age,2011,96.68,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Adjusted net attendance rate for children of primary school age,2018,90.400002,Female,,%,,,,Total
+Iraq,IQ,IRQ,368,Adjusted net attendance rate for children of primary school age,2018,92.699997,Male,,%,,,,Total
+Iraq,IQ,IRQ,368,Adjusted net attendance rate for children of primary school age,2018,91.599998,Total,,%,,,,Total
+Jamaica,JM,JAM,388,Adjusted net attendance rate for children of primary school age,2011,98.699997,Female,,%,,,,Total
+Jamaica,JM,JAM,388,Adjusted net attendance rate for children of primary school age,2011,97.199997,Male,,%,,,,Total
+Jamaica,JM,JAM,388,Adjusted net attendance rate for children of primary school age,2011,98,Total,,%,,,,Total
+Jordan,JO,JOR,400,Adjusted net attendance rate for children of primary school age,2018,97.878387,Female,,%,,,,Total
+Jordan,JO,JOR,400,Adjusted net attendance rate for children of primary school age,2018,96.85202,Male,,%,,,,Total
+Jordan,JO,JOR,400,Adjusted net attendance rate for children of primary school age,2018,97.359253,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Adjusted net attendance rate for children of primary school age,2015,99.5,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Adjusted net attendance rate for children of primary school age,2015,99.599998,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Adjusted net attendance rate for children of primary school age,2015,99.5,Total,,%,,,,Total
+Kenya,KE,KEN,404,Adjusted net attendance rate for children of primary school age,2014,86.540802,Female,,%,,,,Total
+Kenya,KE,KEN,404,Adjusted net attendance rate for children of primary school age,2014,84.340942,Male,,%,,,,Total
+Kenya,KE,KEN,404,Adjusted net attendance rate for children of primary school age,2014,85.445877,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Adjusted net attendance rate for children of primary school age,2019,97.017647,Female,,%,,,,Total
+Kiribati,KI,KIR,296,Adjusted net attendance rate for children of primary school age,2019,95.013184,Male,,%,,,,Total
+Kiribati,KI,KIR,296,Adjusted net attendance rate for children of primary school age,2019,95.985329,Total,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Adjusted net attendance rate for children of primary school age,2018,98.699997,Female,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Adjusted net attendance rate for children of primary school age,2018,98.699997,Male,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Adjusted net attendance rate for children of primary school age,2018,98.699997,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Adjusted net attendance rate for children of primary school age,2017,89.400002,Female,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Adjusted net attendance rate for children of primary school age,2017,89.900002,Male,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Adjusted net attendance rate for children of primary school age,2017,89.599998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Adjusted net attendance rate for children of primary school age,2018,97.199997,Female,,%,,,,Total
+Lesotho,LS,LSO,426,Adjusted net attendance rate for children of primary school age,2018,96,Male,,%,,,,Total
+Lesotho,LS,LSO,426,Adjusted net attendance rate for children of primary school age,2018,96.599998,Total,,%,,,,Total
+Liberia,LR,LBR,430,Adjusted net attendance rate for children of primary school age,2013,43.463741,Female,,%,,,,Total
+Liberia,LR,LBR,430,Adjusted net attendance rate for children of primary school age,2013,41.953079,Male,,%,,,,Total
+Liberia,LR,LBR,430,Adjusted net attendance rate for children of primary school age,2013,42.692242,Total,,%,,,,Total
+Madagascar,MG,MDG,450,Adjusted net attendance rate for children of primary school age,2018,78.699997,Female,,%,,,,Total
+Madagascar,MG,MDG,450,Adjusted net attendance rate for children of primary school age,2018,73.5,Male,,%,,,,Total
+Madagascar,MG,MDG,450,Adjusted net attendance rate for children of primary school age,2018,76.099998,Total,,%,,,,Total
+Malawi,MW,MWI,454,Adjusted net attendance rate for children of primary school age,2016,94.5,Female,,%,,,,Total
+Malawi,MW,MWI,454,Adjusted net attendance rate for children of primary school age,2016,93,Male,,%,,,,Total
+Malawi,MW,MWI,454,Adjusted net attendance rate for children of primary school age,2016,93.699997,Total,,%,,,,Total
+Maldives,MV,MDV,462,Adjusted net attendance rate for children of primary school age,2017,94.599998,Female,,%,,,,Total
+Maldives,MV,MDV,462,Adjusted net attendance rate for children of primary school age,2017,95,Male,,%,,,,Total
+Maldives,MV,MDV,462,Adjusted net attendance rate for children of primary school age,2017,94.800003,Total,,%,,,,Total
+Mali,ML,MLI,466,Adjusted net attendance rate for children of primary school age,2015,51.200001,Female,,%,,,,Total
+Mali,ML,MLI,466,Adjusted net attendance rate for children of primary school age,2015,54.900002,Male,,%,,,,Total
+Mali,ML,MLI,466,Adjusted net attendance rate for children of primary school age,2015,53.099998,Total,,%,,,,Total
+Mauritania,MR,MRT,478,Adjusted net attendance rate for children of primary school age,2015,61.497341,Female,,%,,,,Total
+Mauritania,MR,MRT,478,Adjusted net attendance rate for children of primary school age,2015,57.409981,Male,,%,,,,Total
+Mauritania,MR,MRT,478,Adjusted net attendance rate for children of primary school age,2015,59.48296,Total,,%,,,,Total
+Mexico,MX,MEX,484,Adjusted net attendance rate for children of primary school age,2018,98.800003,Female,,%,,,,Total
+Mexico,MX,MEX,484,Adjusted net attendance rate for children of primary school age,2018,98.800003,Male,,%,,,,Total
+Mexico,MX,MEX,484,Adjusted net attendance rate for children of primary school age,2018,98.800003,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Adjusted net attendance rate for children of primary school age,2018,97,Female,,%,,,,Total
+Mongolia,MN,MNG,496,Adjusted net attendance rate for children of primary school age,2018,95.099998,Male,,%,,,,Total
+Mongolia,MN,MNG,496,Adjusted net attendance rate for children of primary school age,2018,96.099998,Total,,%,,,,Total
+Montenegro,ME,MNE,499,Adjusted net attendance rate for children of primary school age,2018,95.260071,Female,,%,,,,Total
+Montenegro,ME,MNE,499,Adjusted net attendance rate for children of primary school age,2018,95.085533,Male,,%,,,,Total
+Montenegro,ME,MNE,499,Adjusted net attendance rate for children of primary school age,2018,95.169182,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Adjusted net attendance rate for children of primary school age,2011,71.699997,Female,,%,,,,Total
+Mozambique,MZ,MOZ,508,Adjusted net attendance rate for children of primary school age,2011,71.300003,Male,,%,,,,Total
+Mozambique,MZ,MOZ,508,Adjusted net attendance rate for children of primary school age,2011,71.5,Total,,%,,,,Total
+Myanmar,MM,MMR,104,Adjusted net attendance rate for children of primary school age,2016,92.300003,Female,,%,,,,Total
+Myanmar,MM,MMR,104,Adjusted net attendance rate for children of primary school age,2016,93.400002,Male,,%,,,,Total
+Myanmar,MM,MMR,104,Adjusted net attendance rate for children of primary school age,2016,92.800003,Total,,%,,,,Total
+Namibia,,NAM,516,Adjusted net attendance rate for children of primary school age,2013,93.05658,Female,,%,,,,Total
+Namibia,,NAM,516,Adjusted net attendance rate for children of primary school age,2013,91.507027,Male,,%,,,,Total
+Namibia,,NAM,516,Adjusted net attendance rate for children of primary school age,2013,92.285759,Total,,%,,,,Total
+Nauru,NR,NRU,520,Adjusted net attendance rate for children of primary school age,2011,97.699997,Female,,%,,,,Total
+Nauru,NR,NRU,520,Adjusted net attendance rate for children of primary school age,2011,96.900002,Male,,%,,,,Total
+Nauru,NR,NRU,520,Adjusted net attendance rate for children of primary school age,2011,97.300003,Total,,%,,,,Total
+Nepal,NP,NPL,524,Adjusted net attendance rate for children of primary school age,2019,75.88549,Female,,%,,,,Total
+Nepal,NP,NPL,524,Adjusted net attendance rate for children of primary school age,2019,73.197952,Male,,%,,,,Total
+Nepal,NP,NPL,524,Adjusted net attendance rate for children of primary school age,2019,74.488167,Total,,%,,,,Total
+Niger,NE,NER,562,Adjusted net attendance rate for children of primary school age,2012,46,Female,,%,,,,Total
+Niger,NE,NER,562,Adjusted net attendance rate for children of primary school age,2012,54.700001,Male,,%,,,,Total
+Niger,NE,NER,562,Adjusted net attendance rate for children of primary school age,2012,50.400002,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Adjusted net attendance rate for children of primary school age,2018,65.800003,Female,,%,,,,Total
+Nigeria,NG,NGA,566,Adjusted net attendance rate for children of primary school age,2018,67.5,Male,,%,,,,Total
+Nigeria,NG,NGA,566,Adjusted net attendance rate for children of primary school age,2018,66.699997,Total,,%,,,,Total
+Niue,NU,NIU,570,Adjusted net attendance rate for children of primary school age,2011,100,Female,,%,,,,Total
+Niue,NU,NIU,570,Adjusted net attendance rate for children of primary school age,2011,100,Male,,%,,,,Total
+Niue,NU,NIU,570,Adjusted net attendance rate for children of primary school age,2011,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Adjusted net attendance rate for children of primary school age,2019,98.133537,Female,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Adjusted net attendance rate for children of primary school age,2019,97.927208,Male,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Adjusted net attendance rate for children of primary school age,2019,98.029938,Total,,%,,,,Total
+Oman,OM,OMN,512,Adjusted net attendance rate for children of primary school age,2014,98,Female,,%,,,,Total
+Oman,OM,OMN,512,Adjusted net attendance rate for children of primary school age,2014,97.099998,Male,,%,,,,Total
+Oman,OM,OMN,512,Adjusted net attendance rate for children of primary school age,2014,97.5,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Adjusted net attendance rate for children of primary school age,2018,58.801971,Female,,%,,,,Total
+Pakistan,PK,PAK,586,Adjusted net attendance rate for children of primary school age,2018,64.930634,Male,,%,,,,Total
+Pakistan,PK,PAK,586,Adjusted net attendance rate for children of primary school age,2018,61.93465,Total,,%,,,,Total
+Panama,PA,PAN,591,Adjusted net attendance rate for children of primary school age,2013,97.099998,Female,,%,,,,Total
+Panama,PA,PAN,591,Adjusted net attendance rate for children of primary school age,2013,97.099998,Male,,%,,,,Total
+Panama,PA,PAN,591,Adjusted net attendance rate for children of primary school age,2013,97.099998,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Adjusted net attendance rate for children of primary school age,2017,98.300003,Female,,%,,,,Total
+Paraguay,PY,PRY,600,Adjusted net attendance rate for children of primary school age,2017,98.400002,Male,,%,,,,Total
+Paraguay,PY,PRY,600,Adjusted net attendance rate for children of primary school age,2017,98.400002,Total,,%,,,,Total
+Peru,PE,PER,604,Adjusted net attendance rate for children of primary school age,2014,91.300003,Female,,%,,,,Total
+Peru,PE,PER,604,Adjusted net attendance rate for children of primary school age,2014,92.400002,Male,,%,,,,Total
+Peru,PE,PER,604,Adjusted net attendance rate for children of primary school age,2014,91.900002,Total,,%,,,,Total
+Philippines,PH,PHL,608,Adjusted net attendance rate for children of primary school age,2017,95.239388,Female,,%,,,,Total
+Philippines,PH,PHL,608,Adjusted net attendance rate for children of primary school age,2017,93.517067,Male,,%,,,,Total
+Philippines,PH,PHL,608,Adjusted net attendance rate for children of primary school age,2017,94.327377,Total,,%,,,,Total
+Qatar,QA,QAT,634,Adjusted net attendance rate for children of primary school age,2012,96.713211,Female,,%,,,,Total
+Qatar,QA,QAT,634,Adjusted net attendance rate for children of primary school age,2012,96.130119,Male,,%,,,,Total
+Qatar,QA,QAT,634,Adjusted net attendance rate for children of primary school age,2012,96.410896,Total,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Adjusted net attendance rate for children of primary school age,2012,98.400002,Female,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Adjusted net attendance rate for children of primary school age,2012,98.900002,Male,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Adjusted net attendance rate for children of primary school age,2012,98.699997,Total,,%,,,,Total
+Romania,RO,ROU,642,Adjusted net attendance rate for children of primary school age,2016,91.400002,Female,,%,,,,Total
+Romania,RO,ROU,642,Adjusted net attendance rate for children of primary school age,2016,91.739998,Male,,%,,,,Total
+Romania,RO,ROU,642,Adjusted net attendance rate for children of primary school age,2016,91.57,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Adjusted net attendance rate for children of primary school age,2015,95.5,Female,,%,,,,Total
+Rwanda,RW,RWA,646,Adjusted net attendance rate for children of primary school age,2015,93.300003,Male,,%,,,,Total
+Rwanda,RW,RWA,646,Adjusted net attendance rate for children of primary school age,2015,94.400002,Total,,%,,,,Total
+Saint Lucia,LC,LCA,662,Adjusted net attendance rate for children of primary school age,2012,99.207626,Female,,%,,,,Total
+Saint Lucia,LC,LCA,662,Adjusted net attendance rate for children of primary school age,2012,99.795197,Male,,%,,,,Total
+Saint Lucia,LC,LCA,662,Adjusted net attendance rate for children of primary school age,2012,99.51078,Total,,%,,,,Total
+Samoa,WS,WSM,882,Adjusted net attendance rate for children of primary school age,2020,90.795036,Female,,%,,,,Total
+Samoa,WS,WSM,882,Adjusted net attendance rate for children of primary school age,2020,90.453194,Male,,%,,,,Total
+Samoa,WS,WSM,882,Adjusted net attendance rate for children of primary school age,2020,90.620743,Total,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Adjusted net attendance rate for children of primary school age,2019,90.569366,Female,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Adjusted net attendance rate for children of primary school age,2019,88.879646,Male,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Adjusted net attendance rate for children of primary school age,2019,89.70739,Total,,%,,,,Total
+Senegal,SN,SEN,686,Adjusted net attendance rate for children of primary school age,2019,62.20639,Female,,%,,,,Total
+Senegal,SN,SEN,686,Adjusted net attendance rate for children of primary school age,2019,59.734089,Male,,%,,,,Total
+Senegal,SN,SEN,686,Adjusted net attendance rate for children of primary school age,2019,61.024841,Total,,%,,,,Total
+Serbia,RS,SRB,688,Adjusted net attendance rate for children of primary school age,2019,95.115067,Female,,%,,,,Total
+Serbia,RS,SRB,688,Adjusted net attendance rate for children of primary school age,2019,99.090042,Male,,%,,,,Total
+Serbia,RS,SRB,688,Adjusted net attendance rate for children of primary school age,2019,97.191017,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Adjusted net attendance rate for children of primary school age,2017,84.400002,Female,,%,,,,Total
+Sierra Leone,SL,SLE,694,Adjusted net attendance rate for children of primary school age,2017,79.199997,Male,,%,,,,Total
+Sierra Leone,SL,SLE,694,Adjusted net attendance rate for children of primary school age,2017,81.800003,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Adjusted net attendance rate for children of primary school age,2015,68,Female,,%,,,,Total
+Solomon Islands,SB,SLB,90,Adjusted net attendance rate for children of primary school age,2015,65,Male,,%,,,,Total
+Solomon Islands,SB,SLB,90,Adjusted net attendance rate for children of primary school age,2015,66,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Adjusted net attendance rate for children of primary school age,2016,98.860298,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Adjusted net attendance rate for children of primary school age,2016,98.085533,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Adjusted net attendance rate for children of primary school age,2016,98.461983,Total,,%,,,,Total
+South Sudan,SS,SSD,728,Adjusted net attendance rate for children of primary school age,2010,21.12113,Female,,%,,,,Total
+South Sudan,SS,SSD,728,Adjusted net attendance rate for children of primary school age,2010,25.77895,Male,,%,,,,Total
+South Sudan,SS,SSD,728,Adjusted net attendance rate for children of primary school age,2010,23.48708,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Adjusted net attendance rate for children of primary school age,2016,95.619926,Female,,%,,,,Total
+Sri Lanka,LK,LKA,144,Adjusted net attendance rate for children of primary school age,2016,95.792999,Male,,%,,,,Total
+Sri Lanka,LK,LKA,144,Adjusted net attendance rate for children of primary school age,2016,95.707069,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Adjusted net attendance rate for children of primary school age,2020,98.4468,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Adjusted net attendance rate for children of primary school age,2020,97.230118,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Adjusted net attendance rate for children of primary school age,2020,97.83918,Total,,%,,,,Total
+Sudan,SD,SDN,736,Adjusted net attendance rate for children of primary school age,2014,67.475853,Female,,%,,,,Total
+Sudan,SD,SDN,736,Adjusted net attendance rate for children of primary school age,2014,68.708603,Male,,%,,,,Total
+Sudan,SD,SDN,736,Adjusted net attendance rate for children of primary school age,2014,68.097023,Total,,%,,,,Total
+Suriname,SR,SUR,740,Adjusted net attendance rate for children of primary school age,2018,97.199997,Female,,%,,,,Total
+Suriname,SR,SUR,740,Adjusted net attendance rate for children of primary school age,2018,96,Male,,%,,,,Total
+Suriname,SR,SUR,740,Adjusted net attendance rate for children of primary school age,2018,96.599998,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Adjusted net attendance rate for children of primary school age,2017,97.30822,Female,,%,,,,Total
+Tajikistan,TJ,TJK,762,Adjusted net attendance rate for children of primary school age,2017,98.000648,Male,,%,,,,Total
+Tajikistan,TJ,TJK,762,Adjusted net attendance rate for children of primary school age,2017,97.66156,Total,,%,,,,Total
+Thailand,TH,THA,764,Adjusted net attendance rate for children of primary school age,2019,95.392723,Female,,%,,,,Total
+Thailand,TH,THA,764,Adjusted net attendance rate for children of primary school age,2019,95.698677,Male,,%,,,,Total
+Thailand,TH,THA,764,Adjusted net attendance rate for children of primary school age,2019,95.553833,Total,,%,,,,Total
+Timor-Leste,TL,TLS,626,Adjusted net attendance rate for children of primary school age,2016,90.270943,Female,,%,,,,Total
+Timor-Leste,TL,TLS,626,Adjusted net attendance rate for children of primary school age,2016,89.412064,Male,,%,,,,Total
+Timor-Leste,TL,TLS,626,Adjusted net attendance rate for children of primary school age,2016,89.824738,Total,,%,,,,Total
+Togo,TG,TGO,768,Adjusted net attendance rate for children of primary school age,2017,90.714256,Female,,%,,,,Total
+Togo,TG,TGO,768,Adjusted net attendance rate for children of primary school age,2017,91.680634,Male,,%,,,,Total
+Togo,TG,TGO,768,Adjusted net attendance rate for children of primary school age,2017,91.206093,Total,,%,,,,Total
+Tonga,TO,TON,776,Adjusted net attendance rate for children of primary school age,2019,97.587303,Female,,%,,,,Total
+Tonga,TO,TON,776,Adjusted net attendance rate for children of primary school age,2019,96.523987,Male,,%,,,,Total
+Tonga,TO,TON,776,Adjusted net attendance rate for children of primary school age,2019,97.025726,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Adjusted net attendance rate for children of primary school age,2018,97,Female,,%,,,,Total
+Tunisia,TN,TUN,788,Adjusted net attendance rate for children of primary school age,2018,96.800003,Male,,%,,,,Total
+Tunisia,TN,TUN,788,Adjusted net attendance rate for children of primary school age,2018,96.900002,Total,,%,,,,Total
+Turkmenistan,TM,TKM,795,Adjusted net attendance rate for children of primary school age,2019,98.333557,Female,,%,,,,Total
+Turkmenistan,TM,TKM,795,Adjusted net attendance rate for children of primary school age,2019,97.858223,Male,,%,,,,Total
+Turkmenistan,TM,TKM,795,Adjusted net attendance rate for children of primary school age,2019,98.079948,Total,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Adjusted net attendance rate for children of primary school age,2020,98.017433,Female,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Adjusted net attendance rate for children of primary school age,2020,96.324173,Male,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Adjusted net attendance rate for children of primary school age,2020,97.154297,Total,,%,,,,Total
+Tuvalu,TV,TUV,798,Adjusted net attendance rate for children of primary school age,2020,83.957947,Female,,%,,,,Total
+Tuvalu,TV,TUV,798,Adjusted net attendance rate for children of primary school age,2020,80.552933,Male,,%,,,,Total
+Tuvalu,TV,TUV,798,Adjusted net attendance rate for children of primary school age,2020,82.274963,Total,,%,,,,Total
+Turkey,TR,TUR,792,Adjusted net attendance rate for children of primary school age,2013,96.585373,Female,,%,,,,Total
+Turkey,TR,TUR,792,Adjusted net attendance rate for children of primary school age,2013,94.348923,Male,,%,,,,Total
+Turkey,TR,TUR,792,Adjusted net attendance rate for children of primary school age,2013,95.436943,Total,,%,,,,Total
+Uganda,UG,UGA,800,Adjusted net attendance rate for children of primary school age,2016,85.400002,Female,,%,,,,Total
+Uganda,UG,UGA,800,Adjusted net attendance rate for children of primary school age,2016,84.199997,Male,,%,,,,Total
+Uganda,UG,UGA,800,Adjusted net attendance rate for children of primary school age,2016,84.800003,Total,,%,,,,Total
+Ukraine,UA,UKR,804,Adjusted net attendance rate for children of primary school age,2012,99.599998,Female,,%,,,,Total
+Ukraine,UA,UKR,804,Adjusted net attendance rate for children of primary school age,2012,100,Male,,%,,,,Total
+Ukraine,UA,UKR,804,Adjusted net attendance rate for children of primary school age,2012,99.800003,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Adjusted net attendance rate for children of primary school age,2016,83.400002,Female,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Adjusted net attendance rate for children of primary school age,2016,78.099998,Male,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Adjusted net attendance rate for children of primary school age,2016,80.800003,Total,,%,,,,Total
+Uruguay,UY,URY,858,Adjusted net attendance rate for children of primary school age,2013,97.779533,Female,,%,,,,Total
+Uruguay,UY,URY,858,Adjusted net attendance rate for children of primary school age,2013,96.508781,Male,,%,,,,Total
+Uruguay,UY,URY,858,Adjusted net attendance rate for children of primary school age,2013,97.123093,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Adjusted net attendance rate for children of primary school age,2013,78,Female,,%,,,,Total
+Vanuatu,VU,VUT,548,Adjusted net attendance rate for children of primary school age,2013,76.300003,Male,,%,,,,Total
+Vanuatu,VU,VUT,548,Adjusted net attendance rate for children of primary school age,2013,77.199997,Total,,%,,,,Total
+Vietnam,VN,VNM,704,Adjusted net attendance rate for children of primary school age,2014,97.572548,Female,,%,,,,Total
+Vietnam,VN,VNM,704,Adjusted net attendance rate for children of primary school age,2014,97.866539,Male,,%,,,,Total
+Vietnam,VN,VNM,704,Adjusted net attendance rate for children of primary school age,2014,97.72538,Total,,%,,,,Total
+Yemen,YE,YEM,887,Adjusted net attendance rate for children of primary school age,2013,72.373947,Female,,%,,,,Total
+Yemen,YE,YEM,887,Adjusted net attendance rate for children of primary school age,2013,80.335663,Male,,%,,,,Total
+Yemen,YE,YEM,887,Adjusted net attendance rate for children of primary school age,2013,76.416313,Total,,%,,,,Total
+Zambia,ZM,ZMB,894,Adjusted net attendance rate for children of primary school age,2018,86.377907,Female,,%,,,,Total
+Zambia,ZM,ZMB,894,Adjusted net attendance rate for children of primary school age,2018,81.754517,Male,,%,,,,Total
+Zambia,ZM,ZMB,894,Adjusted net attendance rate for children of primary school age,2018,84.099167,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Adjusted net attendance rate for children of primary school age,2019,91.5,Female,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Adjusted net attendance rate for children of primary school age,2019,89.699997,Male,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Adjusted net attendance rate for children of primary school age,2019,90.599998,Total,,%,,,,Total

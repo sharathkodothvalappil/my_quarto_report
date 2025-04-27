@@ -1,0 +1,144 @@
+---
+author: "Sharath"
+format: 
+  html:
+    page-layout: article
+    code-fold: true
+    code-copy: true
+    toc: true
+  
+    
+    smooth-scroll: true
+    embed-resources: true
+    css: style.css
+title: "Global School Attendance Rates"
+
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+```{python}
+import pandas as pd
+import numpy as np
+import plotly.express as px
+import polars as pl
+import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
+
+
+# Define custom color palette
+colors = ["#0081a7", "#00afb9", "#fdfcdc", "#fed9b7", "#f07167"]
+```
+
+```{python}
+#| echo: false
+import pandas as pd
+import plotly.express as px
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+
+# Load the data 
+df = pd.read_csv("unicef_indicator_2 (3).csv")
+df_total = df[df["sex"] == "Total"].copy()
+
+palette = ['#dbe9f4', '#bcd4e6', '#9bb1d4', '#8da7c4',
+           '#7c90a0', '#6e7f9a', '#5c677d', '#495867',
+           '#354f52', '#2f3e46']
+
+latest_year = df_total["time_period"].max()
+latest_df = df_total[df_total["time_period"] == latest_year]
+```
+
+# Unlocking Education: The Journey Behind School Attendance
+
+The First Step: Mapping a Child's Right
+
+Education is the doorway to opportunity, yet millions are still left standing outside that door.Around the world, school attendance rates tell a powerful story — a story of inclusion, struggle, and progress.To begin, let's take a global view. Where are children making it into the classroom — and where are they being left behind?
+
+```{python}
+fig = px.choropleth(
+    latest_df,
+    locations="alpha_3_code",
+    color="obs_value",
+    hover_name="country",
+    color_continuous_scale=palette,
+    title=f"School Attendance Rate - {latest_year}"
+)
+fig.update_layout(margin={"r":0,"t":50,"l":0,"b":0})
+fig.show()
+```
+
+This map paints a striking picture: Some nations shine brightly, nearing full enrollment, while others reveal heartbreaking gaps, reminding us of the unevenness in access to learning.
+
+## Boys and Girls: Are We Closing the Gap?
+
+While access has improved, gender disparities remain in many regions. How do boys' and girls' school attendance rates compare?
+
+```{python}
+male = df[df["sex"] == "Male"]
+female = df[df["sex"] == "Female"]
+
+male_latest = male[male["time_period"] == latest_year][["country", "obs_value"]].rename(columns={"obs_value": "Male"})
+female_latest = female[female["time_period"] == latest_year][["country", "obs_value"]].rename(columns={"obs_value": "Female"})
+
+gender_df = pd.merge(male_latest, female_latest, on="country")
+
+plt.figure(figsize=(8,6))
+sns.regplot(data=gender_df, x="Male", y="Female", scatter_kws={"s":50, "alpha":0.6}, line_kws={"color": palette[4]})
+plt.grid(True, linestyle="--", alpha=0.6)
+plt.tight_layout()
+plt.show()
+```
+
+> In an ideal world, every dot would fall perfectly on the diagonal line — signaling equality. Yet reality shows us deviations:
+>
+> -   In some nations, girls still lag behind.
+>
+> -   In others, boys are increasingly vulnerable to dropout.
+>
+> -   Understanding these differences is crucial for shaping targeted, inclusive education policies.
+
+## A Deeper Dive: How Some Countries Are Changing Over Time
+
+Progress isn’t measured only by snapshots — but by journeys.Take, for instance, **Afghanistan**. A nation marked by decades of turmoil, yet striving to move forward.
+
+```{python}
+afg = df_total[df_total["country"] == "Afghanistan"]
+
+plt.figure(figsize=(8,6))
+sns.lineplot(data=afg, x="time_period", y="obs_value", marker="o", color=palette[7])
+plt.grid(True, linestyle="--", alpha=0.6)
+plt.tight_layout()
+plt.show()
+```
+
+While fluctuations remain, the overall picture reveals resilience.Every year of improvement represents thousands more children learning, dreaming, and building toward a different future.
+
+## Rising Together: Stories of Momentum
+
+Beyond individual nations, we can observe the **collective movement** of countries making major strides.
+
+```{python}
+top3 = latest_df.sort_values("obs_value", ascending=False).head(3)["country"]
+area_df = df_total[df_total["country"].isin(top3)]
+
+plt.figure(figsize=(10,6))
+for i, c in enumerate(top3):
+    sub = area_df[area_df["country"] == c]
+    plt.fill_between(sub["time_period"], sub["obs_value"], alpha=0.5, color=palette[i], label=c)
+
+plt.legend()
+plt.grid(True, linestyle="--", alpha=0.5)
+plt.tight_layout()
+plt.show()
+```
+
+This area chart shows not only how top-performing countries have improved — but also the sheer momentum behind educational growth when communities, governments, and families come together.It reminds us that while the starting points differ, progress is possible everywhere.
+
+## Final Reflections: More Than Numbers
+
+Behind every data point we have seen lies a child's story —A story of hope, perseverance, and potential.Education is not a luxury.It is the engine of healthier societies, stronger economies, and more peaceful nations.As we visualize these global patterns, we must remember:**Each additional child stepping into a classroom brings the entire world closer to a brighter tomorrow.**
